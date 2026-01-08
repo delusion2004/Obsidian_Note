@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "16ff98c323174b28",
+    "id": "d351d7cdd2614dd3",
     "type": "split",
     "children": [
       {
-        "id": "a275b09500a27aa8",
+        "id": "15b3ea9457ef3413",
         "type": "tabs",
         "children": [
           {
-            "id": "540db0d2ca14eea3",
+            "id": "0c03002b49fa2b78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微信小程序开发笔记.md",
+                "file": "前后端上线部署教程(后端python).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微信小程序开发笔记"
+              "title": "前后端上线部署教程(后端python)"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "57b05366c5b0885e",
+    "id": "6fcda5b95a9bf9b0",
     "type": "split",
     "children": [
       {
-        "id": "a57684d989a7891f",
+        "id": "ba6a1f1d59c7cf30",
         "type": "tabs",
         "children": [
           {
-            "id": "85c097b761607ebe",
+            "id": "edbf1521ff3b545f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "51e2c9d4a07bcfa7",
+            "id": "cce046657d74d091",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "a05ba9872ffaaead",
+            "id": "3091050e3e780b3f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "471824e00984f37f",
+    "id": "13cf221f270abcf5",
     "type": "split",
     "children": [
       {
-        "id": "849e2f5455793a74",
+        "id": "c3588248648f1d63",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e1f8ecd66acce8",
+            "id": "551918d839059e39",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +108,7 @@
             }
           },
           {
-            "id": "9d8157e2b0143e78",
+            "id": "557fdf7d051811c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "59d7c95f1f69cd56",
+            "id": "f10d4fb71f10e5b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "4f5833cc23748127",
+            "id": "70d63a2f1c110315",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,7 +151,7 @@
             }
           },
           {
-            "id": "e70c83e7f989a575",
+            "id": "01c90cc697d8b7f8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -180,13 +180,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "540db0d2ca14eea3",
+  "active": "edbf1521ff3b545f",
   "lastOpenFiles": [
-    "遇到的问题：.md",
-    "前后端上线部署教程(后端python).md"
+    "flex布局-补充.md",
+    "微信小程序开发笔记.md",
+    "图片/Pasted image 20251226094641.png"
   ]
 }
